@@ -1,5 +1,11 @@
-export default function Home() {
+
+
+const Home = async () => {
+
   return (
-    <div>h1</div>
+  <div>
+   home
+  </div>
   )
 }
+export default Home
