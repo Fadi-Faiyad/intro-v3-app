@@ -1,0 +1,20 @@
+.navigation {
+    width: 570px;
+    padding: 15px;
+    margin: 0px auto 0ps auto;
+
+}
+
+.pageborder{
+    max-width: 940px;
+    min-width: 720px;
+    margin-right: 10px;
+    padding: 20px;
+    border: 4px double #000;
+    background-color: #ffffff;
+}
+.li{
+    display: inline;
+    text-align: center;
+    margin-right: 10px;
+}
